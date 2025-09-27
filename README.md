@@ -5,7 +5,7 @@ Bilgisayar Mühendisliği son sınıf öğrencisiyim. Gerçek zamanlı web uygul
 - 🔭 Şu an: Node.js + Express + MySQL ile sipariş/menü yönetim sistemi (bitirme)
 - 🌱 Öğreniyorum: TypeScript, Docker, Clean Architecture
 - 💬 İlgi alanları: Web backend, gerçek zamanlı (Socket.IO), performans optimizasyonu
-- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/USERNAME) • baris@example.com
+- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/USERNAME) • barisytdigital@gmail.com
 - 🌐 Portfolyo (yakında): https://barisc.dev
 
 ### Teknolojiler
